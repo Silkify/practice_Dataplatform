@@ -13,12 +13,12 @@
 ## 🛠 Tech Stack (기술 스택)
 
 * **Language:** Python 3.x
-* **Data Ingestion:** 내용 작성하면서 이용도구 작성 예정 
-* **Data Processing:** 내용 작성하면서 이용도구 작성 예정 
-* **Storage / DB:** 내용 작성하면서 이용도구 작성 예정 
-* **Workflow Management:** 내용 작성하면서 이용도구 작성 예정 
-* **Visualization:** 내용 작성하면서 이용도구 작성 예정 
-* **Environment:** 내용 작성하면서 이용도구 작성 예정 
+* **Data Ingestion:** #
+* **Data Processing:** # 
+* **Storage / DB:** #
+* **Workflow Management:** #
+* **Visualization:** # 
+* **Environment:**  #
 
 ---
 
