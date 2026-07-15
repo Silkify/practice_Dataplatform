@@ -13,12 +13,12 @@
 ## 🛠 Tech Stack (기술 스택)
 
 * **Language:** Python 3.x
-* **Data Ingestion:** OpenAPI, `requests`, BeautifulSoup
-* **Data Processing:** Pandas, PySpark, SQL
-* **Storage / DB:** PostgreSQL, MySQL, AWS S3, Local Storage
-* **Workflow Management:** Apache Airflow / Cron
-* **Visualization:** Streamlit, Tableau, Superset
-* **Environment:** Docker, Git
+* **Data Ingestion:** 내용 작성하면서 이용도구 작성 예정 
+* **Data Processing:** 내용 작성하면서 이용도구 작성 예정 
+* **Storage / DB:** 내용 작성하면서 이용도구 작성 예정 
+* **Workflow Management:** 내용 작성하면서 이용도구 작성 예정 
+* **Visualization:** 내용 작성하면서 이용도구 작성 예정 
+* **Environment:** 내용 작성하면서 이용도구 작성 예정 
 
 ---
 
