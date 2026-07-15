@@ -1,4 +1,4 @@
-# 📊 Dataplatform_study
+# :triangular_flag_on_post: Dataplatform_study
 
 > **공공 데이터를 활용하여 엔드투엔드(End-to-End) 데이터 플랫폼 및 데이터 파이프라인 구축을 학습하는 저장소입니다.**  
 > 데이터 수집, 정제, 적재, 분석 및 시각화까지의 전 과정을 구현하며 데이터 엔지니어링 역량을 기르는 것을 목표로 합니다.
