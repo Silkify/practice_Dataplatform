@@ -5,12 +5,12 @@
 
 ---
 
-## 📌 프로젝트 개요
+## :fire: 프로젝트 개요
 공공 데이터 포털(data.go.kr) 등에서 제공하는 다양한 공공 데이터를 연동하여 실전 데이터 플랫폼의 핵심 요소를 모방하고 구현합니다. 대용량 데이터 처리, 배치/실시간 파이프라인 설계, 데이터 품질 관리 등에 초점을 맞추어 학습을 진행하고 있습니다.
 
 ---
 
-## 🛠 Tech Stack (기술 스택)
+## :wrench: Tech Stack (기술 스택)
 
 * **Language:** Python 3.x
 * **Data Ingestion:** #
@@ -22,7 +22,7 @@
 
 ---
 
-## 🏗 Data Pipeline Architecture (데이터 흐름도)
+## :pushpin: Data Pipeline Architecture (데이터 흐름도)
 
 ```text
  [공공 데이터 API / CSV] 
